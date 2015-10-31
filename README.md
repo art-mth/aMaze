@@ -32,7 +32,7 @@ Make a build(.jar) and start playing or start the game right from inside your fa
 * [Java SE 8](https://java.com/de/download/) or newer
 
 ##License
-MIT &copy; Arthur Mathies 
+MIT &copy; [Arthur Mathies](https://github.com/arthurmathies) 
 
 
 
