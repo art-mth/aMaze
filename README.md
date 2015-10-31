@@ -7,12 +7,12 @@
 ##Features
 
 ####Menu
-The menu gives the user the ability to choose between different difficulty levels, start previously saved games or quit the application all together.
+The menu gives the player the ability to choose between different difficulty levels, start previously saved games or quit the application all together.
 
 ![](https://github.com/arthurmathies/aMaze/blob/master/images/mainMenu.png)
 
 ####Gameplay
-Levels are randomly generated to give the user a new experience every time. The choosen difficulty level determines different variables in the creation of the game including number of monsters and density of the field.
+Levels are randomly generated to give the player a new experience every time. The choosen difficulty level determines different variables in the creation of the game including number of monsters and density of the field.
 
 ![](https://github.com/arthurmathies/aMaze/blob/master/images/gameplayEasy.png)
 
@@ -22,7 +22,7 @@ The goal is very simple: Collect a key and reach an exit point while at the same
 
 The game includes static(in turquoise) and attacking monsters(in red). The screen automagically changes when you walk out of the currently rendered part of the maze.
 
-At any point you can also save the game and exit the game, look at the key explanations or go back to the main menu.
+At any point you can also save the game and exit the game, look at the key or go back to the main menu.
 
 ##Usage
 Make a build(.jar) and start playing or start the game right from inside your favourite IDE.
