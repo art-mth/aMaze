@@ -6,4 +6,7 @@
 # binaries
 bin/
 
+# dist
+*.jar
+
 
