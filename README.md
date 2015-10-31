@@ -9,7 +9,7 @@
 ####Menu
 The menu gives the user the ability to choose between different difficulty levels, start previously saved games or quit the application all together.
 
-![](https://github.com/arthurmathies/aMaze/images/mainMenu.png)
+![](https://github.com/arthurmathies/aMaze/blob/master/images/mainMenu.png)
 
 ####Gameplay
 Levels are randomly generated to give the user a new experience every time. The choosen difficulty level determines different variables in the creation of the game including number of monsters and density of the field.
